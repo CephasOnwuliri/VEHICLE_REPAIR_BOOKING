@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Station> stations = [
     Station(
       id: '1',
-      name: 'Quick Fix Auto',
+      name: 'Tola Auto',
       distance: 2.5,
       rating: 4.8,
       type: 'Mechanic',
@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
     ),
     Station(
       id: '2',
-      name: 'Speedy Repairs',
+      name: 'Speedy Repais',
       distance: 3.2,
       rating: 4.5,
       type: 'Mechanic',
@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
     ),
     Station(
       id: '3',
-      name: 'Premium Service Center',
+      name: 'Total Service Center',
       distance: 1.8,
       rating: 4.9,
       type: 'Mechanic',
@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
     ),
     Station(
       id: '4',
-      name: 'EcoFuel Station',
+      name: 'Barron Fuel Station',
       distance: 4.0,
       rating: 4.2,
       type: 'Fuel Station',

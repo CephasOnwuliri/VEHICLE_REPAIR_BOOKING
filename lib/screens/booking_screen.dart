@@ -25,6 +25,7 @@ class _BookingScreenState extends State<BookingScreen> {
     'SUV',
     'Truck',
     'Motorcycle',
+    'Tricycle(Keke)',
     'Van',
   ];
 

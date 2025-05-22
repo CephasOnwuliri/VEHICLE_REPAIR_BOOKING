@@ -1,4 +1,4 @@
-# Vehicle Repair Booking App
+# Vehicle Repair Booking App(Project Summary)
 
 A Flutter application that allows users to book vehicle repair services. This app was built as part of the Flutter Intern task.
 
@@ -11,7 +11,7 @@ This app simulates a basic customer-side experience for booking vehicle repair s
 - Ability to book appointments with selected stations
 - Form validation and user feedback
 
-## Scree Recording
+## Screen Recording
 
 [Screenshots will be added here]
 
@@ -43,18 +43,18 @@ This app simulates a basic customer-side experience for booking vehicle repair s
    - An emulator or physical device
 
 2. **Clone the repository**
-   ```bash
+   ```bash/powershell/cmd
    git clone https://github.com/<your-username>/vehicle-repair-booking-app.git
    cd vehicle_repair_booking
    ```
 
 3. **Install dependencies**
-   ```bash
+   ```bash/powershell/cmd
    flutter pub get
    ```
 
 4. **Run the app**
-   ```bash
+   ```bash/powershell/cmd
    flutter run
    ```
 
@@ -75,8 +75,8 @@ This app demonstrates:
 
 Future enhancements could include:
 - Implementing actual API integration
-- Adding user registration
-- Saving booking history
+- Add user registration
+- Save booking history
 - Adding notifications for upcoming appointments
 - Implementing a real-time station availability feature
 

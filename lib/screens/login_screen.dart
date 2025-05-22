@@ -146,7 +146,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           ),
                   ),
                   
-                  // Hint for the interviewer (would be removed in real app)
+                  // Hint for the interviewer (will be removed in real app)
                   SizedBox(height: 24),
                   Text(
                     'Hint: Use intern@balancee.com / Intern123#',
