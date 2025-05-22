@@ -13,7 +13,7 @@ This app simulates a basic customer-side experience for booking vehicle repair s
 
 ## Screen Recording
 
-[Screenshots will be added here]
+https://drive.google.com/file/d/1_xS9NCyX2b5I_PD0DknkZmCCt3L1GVy0/view?usp=drive_link
 
 ## Features
 
